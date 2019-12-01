@@ -1,0 +1,6 @@
+.list ul{padding-left: 0;}
+.goods{overflow: hidden;border: 1px solid #000;margin-top: 5px;width: 100%;display: block;}
+.goods .goodsImg{width: 100px;float: left;}
+.goods .goodsDetail{float: left;margin-left: 10px}
+.goods .goodsDetail .goodsName{font: 700 20px/35px '';margin-top: 15px;}
+.goods .goodsDetail .goodsPrice{color: red;}

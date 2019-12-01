@@ -1,0 +1,31 @@
+.footer {
+    height: 50px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    font: 24px/50px "";
+    text-align: center;
+  }
+  .footer a {
+    color: #000;
+  }
+  .footer .firstPage {
+    height: 50px;
+    flex: 1;
+    border-right: 1px solid #000;
+    background: tomato;
+  }
+  .footer .shopCar {
+    height: 50px;
+    flex: 1;
+    border-right: 1px solid #000;
+    background: tomato;
+  }
+  .footer .myPage {
+    height: 50px;
+    flex: 1;
+    background: tomato;
+  }

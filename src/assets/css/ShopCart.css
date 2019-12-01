@@ -1,0 +1,8 @@
+*{list-style: none;padding: 0;margin: 0;}
+.shopcart li{margin-bottom: 5px;}
+.shopcart li .checkbox{height: 20px;width: 20px;margin: 0 10px;}
+.shopcart li img {height: 70px;}
+.shopcart li .reduce{font: 700 16px ""; margin-left: 30px;height: 30px;width: 30px;border-radius: 50%;overflow: hidden;background: tomato;}
+.shopcart li .num{margin-left: 10px;font: 700 16px "";}
+.shopcart li .increce{font: 700 16px ""; margin-left: 10px;height: 30px;width: 30px;border-radius: 50%;overflow: hidden;background: tomato;}
+.settlement{float: right;font: 700 16px "";background: tomato;padding: 10px;margin-right: 20px;border-radius: 10px;overflow: hidden;}
